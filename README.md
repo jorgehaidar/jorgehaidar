@@ -1,16 +1,24 @@
-## Hi there 👋
+# ¡Hola, soy Jorge Haidar! 👋
 
-<!--
-**jorgehaidar/jorgehaidar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Desarrollador Fullstack | Laravel | PHP | Vue | APIs RESTful**
 
-Here are some ideas to get you started:
+Apasionado por crear soluciones robustas y escalables. Me encanta trabajar en proyectos desafiantes y aprender nuevas tecnologías.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tecnologías y herramientas
+- **Lenguajes**: PHP, JavaScript, Python
+- **Frameworks**: Laravel, Vue.js
+- **Bases de datos**: MySQL, PostgreSQL
+- **Herramientas**: Docker, Git, Composer, Postman
+
+### 🌟 Proyectos destacados
+- [Back-Starter](https://github.com/jhaidar/back-starter): Un core backend modular para proyectos Laravel.
+- [API Manager](https://github.com/jhaidar/api-manager): Gestión de APIs con autenticación JWT y roles.
+
+### 📫 Contáctame
+- 📧 Correo: [jorgehaidarmtnez@gmail.com](mailto:jorgehaidarmtnez@gmail.com)
+- 💼 LinkedIn: [Jhaidar en LinkedIn](https://linkedin.com/in/jorge-haidar)
+
+### 📊 Estadísticas de GitHub
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=jorgehaidar&show_icons=true&theme=radical)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgehaidar&layout=compact&theme=radical)
