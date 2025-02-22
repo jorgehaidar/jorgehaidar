@@ -11,7 +11,7 @@ Apasionado por crear soluciones robustas y escalables. Me encanta trabajar en pr
 - **Herramientas**: Docker, Git, Composer, Postman
 
 ### 🌟 Proyectos destacados
-- [Back-Starter](https://github.com/jhaidar/coreback): Un core backend modular para proyectos Laravel.
+- [Back-Starter](https://github.com/jorgehaidar/coreback): Un core backend modular para proyectos Laravel.
 
 ### 📫 Contáctame
 - 📧 Correo: [jorgehaidarmtnez@gmail.com](mailto:jorgehaidarmtnez@gmail.com)
