@@ -11,8 +11,7 @@ Apasionado por crear soluciones robustas y escalables. Me encanta trabajar en pr
 - **Herramientas**: Docker, Git, Composer, Postman
 
 ### 🌟 Proyectos destacados
-- [Back-Starter](https://github.com/jhaidar/back-starter): Un core backend modular para proyectos Laravel.
-- [API Manager](https://github.com/jhaidar/api-manager): Gestión de APIs con autenticación JWT y roles.
+- [Back-Starter](https://github.com/jhaidar/coreback): Un core backend modular para proyectos Laravel.
 
 ### 📫 Contáctame
 - 📧 Correo: [jorgehaidarmtnez@gmail.com](mailto:jorgehaidarmtnez@gmail.com)
